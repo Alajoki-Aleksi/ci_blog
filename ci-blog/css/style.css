@@ -1,0 +1,63 @@
+/* 
+    Created on : Nov 7, 2017, 10:09:16 AM
+    Author     : Aleksi Jere Johannes Alajoki TIK16SPW
+*/
+
+#confirm {
+    background-color: blue;
+    color: white;
+}
+
+.otsikko {
+    font-weight: bold;
+}
+
+hr {
+    border-top: 1px solid rgb(0, 0, 0);
+}
+
+#textarea {
+    height: 7em;
+    width: 15em;
+}
+
+#kommenttiotsikko {
+    margin-top: 3em;
+}
+#button {
+    margin-top: 0.5em;
+    display:block;
+}
+
+.kommentti {
+    width: 15em;
+    margin-left: 1em;
+}
+.fa-trash {
+    padding-left: 1em;
+}
+
+.kirjoitus {
+    margin-left: 0.5em;
+    margin-bottom: 1em;
+    width: 20em;
+}
+
+.error_msg {
+    color: red;
+}
+
+.success_msg {
+    color: green;
+}
+
+.content {
+    padding-left: 2em;
+}
+.kirjoitus_details {
+    width: 15em;
+    margin-left: 1em;
+}
+#viiva {
+    width: 15em;
+}
